@@ -1,7 +1,8 @@
 GitHub Practice
 Basic Workflow
 
-- add
-- commit
-- rm
-- get status
+add
+commit
+rm
+get status
+get diff
