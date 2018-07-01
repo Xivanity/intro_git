@@ -3,3 +3,4 @@ Basic Workflow
 
 - add
 - commit
+- rm
