@@ -4,3 +4,4 @@ Basic Workflow
 - add
 - commit
 - rm
+- get status
